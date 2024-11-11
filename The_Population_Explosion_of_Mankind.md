@@ -80,7 +80,7 @@ Our way of life is made possible by fossil fuels and industry. Global transporta
 
 (Real Time World Statistics)
 
-	Measuring our current energy usage by the Kardashev scale we aren’t even a type 1 civilization yet; we are in fact type 0 as we do not utilize all the energy received from our local star. Our civilization is still a work in progress, and we have a lot of room to improve…
+Measuring our current energy usage by the Kardashev scale we aren’t even a type 1 civilization yet; we are in fact type 0 as we do not utilize all the energy received from our local star. Our civilization is still a work in progress, and we have a lot of room to improve…
 
 The science of biomimicry is the design and production of materials, structures, and systems that are modeled on biological entities and processes. By studying nature, we have made many scientific advancements, such as: fibers based on spider silk, algae inspired water purification systems, modern turbine blades based on the structure of humpback whale flippers, bullet trains based on the beak of the kingfisher, needles inspired by mosquito’s, swim suits based on shark skin, Velcro inspired by natural plant burrs, camouflage inspired by cephalopods, aircraft aerodynamics inspired by the peregrine falcon, self-filling water bottles inspired by the Namib desert beetle, air conditioning inspired by termite mounds, and shock absorbers inspired by woodpeckers. 
 
