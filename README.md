@@ -69,7 +69,7 @@ Society as we know it came to existence during a relatively stable time in the g
 
 <div align="center">
     <img src="temperatures.jpg" alt="Historical Temperature Trends"> 
-</div>(A 500-million-year survey of Earth's climate reveals dire warning for humanity)
+</div><div align="center">(A 500-million-year survey of Earth's climate reveals dire warning for humanity)</div>
 
 Our way of life is made possible by fossil fuels and industry. Global transportation, food production, and many global industries are heavily dependent on fossil fuels. How can we provide for a growing population with a society built upon a limited resource with an estimated 41 years of oil reserves remaining?    
 
@@ -78,12 +78,12 @@ Our way of life is made possible by fossil fuels and industry. Global transporta
 
 <div align="center">
     <img src="population.jpg" alt="World Population: Past, Present, and Future"> 
-</div> (Current World Population)
+</div> <div align="center">(Current World Population)</div>
 
 
 <div align="center">
     <img src="energy%20remaining.jpg" alt="Energy Usage and Remaining Resources"> 
-</div>(Real Time World Statistics)
+</div><div align="center">(Real Time World Statistics)</div>
 
 Measuring our current energy usage by the Kardashev scale we aren’t even a type 1 civilization yet; we are in fact type 0 as we do not utilize all the energy received from our local star. Our civilization is still a work in progress, and we have a lot of room to improve…
 
