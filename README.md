@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="naturevsindustry.jpg" alt="nature vs industry">
+    <img src="naturevsindustry.png" alt="nature vs industry">
 </div>
 
 Matthew R. Topham
