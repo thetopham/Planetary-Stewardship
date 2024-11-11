@@ -42,7 +42,7 @@ Some may say that the solar output of the sun has changed and that is the cause 
 
 <div align="center">
     <img src="climate%20change%20incoming%20sunlight.jpg" alt="Solar Activity and Global Temperature">
-</div>
+</div>(Climate Change: Incoming Sunlight)
 
 It is important to acknowledge that humanity has influenced the planet and that collectively, our decisions and actions make a difference in creating and shaping our world for us and our children to thrive, and for our species to continue. We must leave the world better than we received it, and make improvements, so that our children can continue our work and make the world a place where humanity can flourish as we were meant to. 
 
@@ -68,8 +68,8 @@ Society as we know it came to existence during a relatively stable time in the g
 
 
 <div align="center">
-    <img src="temperatures.jpg" alt="Historical Temperature Trends"> (A 500-million-year survey of Earth's climate reveals dire warning for humanity)
-</div>
+    <img src="temperatures.jpg" alt="Historical Temperature Trends"> 
+</div>(A 500-million-year survey of Earth's climate reveals dire warning for humanity)
 
 Our way of life is made possible by fossil fuels and industry. Global transportation, food production, and many global industries are heavily dependent on fossil fuels. How can we provide for a growing population with a society built upon a limited resource with an estimated 41 years of oil reserves remaining?    
 
@@ -77,13 +77,13 @@ Our way of life is made possible by fossil fuels and industry. Global transporta
 
 
 <div align="center">
-    <img src="population.jpg" alt="World Population: Past, Present, and Future"> (Current World Population)
-</div> 
+    <img src="population.jpg" alt="World Population: Past, Present, and Future"> 
+</div> (Current World Population)
 
 
 <div align="center">
-    <img src="energy%20remaining.jpg" alt="Energy Usage and Remaining Resources"> (Real Time World Statistics)
-</div>
+    <img src="energy%20remaining.jpg" alt="Energy Usage and Remaining Resources"> 
+</div>(Real Time World Statistics)
 
 Measuring our current energy usage by the Kardashev scale we aren’t even a type 1 civilization yet; we are in fact type 0 as we do not utilize all the energy received from our local star. Our civilization is still a work in progress, and we have a lot of room to improve…
 
