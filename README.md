@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="naturevsindustry.jpg" alt="nature vs industry">
+</div>
+
 Matthew R. Topham
 
 Professor Elizabeth Jackson
@@ -5,10 +9,6 @@ Professor Elizabeth Jackson
 Eng 122-500 Composition II
 
 24 Apr. 2022
-
-<div align="center">
-    <img src="naturevsindustry.jpg" alt="nature vs industry">
-</div>
 
 
 <div align="center">
