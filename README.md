@@ -18,9 +18,7 @@ Eng 122-500 Composition II
 </div>
 
 
-### Audience:
-
-### Corporate entities and people of the earth who care about the planet and our future as a species.
+### Audience: Corporate entities and people of the earth who care about the planet and our future as a species.
 
 
 
