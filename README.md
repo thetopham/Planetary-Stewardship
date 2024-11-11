@@ -6,6 +6,9 @@ Eng 122-500 Composition II
 
 24 Apr. 2022
 
+<div align="center">
+    <img src="naturevsindustry.jpg" alt="nature vs industry">
+</div>
 
 
 <div align="center">
@@ -16,6 +19,9 @@ Eng 122-500 Composition II
 ### April 24th, 2022
 </div>
 
+<div align="center">
+    <img src="world.jpg" alt="world">
+</div>
 
 ### Audience: Corporate entities and people of the earth who care about the planet and our future as a species.
 
