@@ -9,9 +9,7 @@ Eng 122-500 Composition II
 
 
 <div align="center">
-<h1> The Population Explosion of Mankind:</h1> 
-
-### To What Extent Has Man Influenced the World?
+<h1> The Population Explosion of Mankind: To What Extent Has Man Influenced the World?</h1> 
 
 ### Matthew R. Topham
 
