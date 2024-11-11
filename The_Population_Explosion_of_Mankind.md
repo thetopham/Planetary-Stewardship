@@ -19,7 +19,7 @@ April 24th, 2022
 
 
 
-# Audience:
+Audience:
 
 Corporate entities and people of the earth who care about the planet and our future as a species.
 
