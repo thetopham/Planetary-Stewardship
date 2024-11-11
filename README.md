@@ -9,17 +9,17 @@ Eng 122-500 Composition II
 
 
 
-## The Population Explosion of Mankind:
+### The Population Explosion of Mankind:
 
-## To What Extent Has Man Influenced the World?
+### To What Extent Has Man Influenced the World?
 
-## Matthew R. Topham
+### Matthew R. Topham
 
-## April 24th, 2022
+### April 24th, 2022
 
 
 
-## Audience:
+### Audience:
 
 ### Corporate entities and people of the earth who care about the planet and our future as a species.
 
