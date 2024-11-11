@@ -37,6 +37,9 @@ Some may say that the solar output of the sun has changed and that is the cause 
 
 <div align="center">
 ![Solar Activity and Global Temperature](climate%20change%20incoming%20sunlight.jpg) </div>
+<div align="center">
+    <img src="population.jpg" alt="World Population: Past, Present, and Future">
+</div>
 
 It is important to acknowledge that humanity has influenced the planet and that collectively, our decisions and actions make a difference in creating and shaping our world for us and our children to thrive, and for our species to continue. We must leave the world better than we received it, and make improvements, so that our children can continue our work and make the world a place where humanity can flourish as we were meant to. 
 
