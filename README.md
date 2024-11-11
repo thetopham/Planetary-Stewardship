@@ -9,8 +9,7 @@ Eng 122-500 Composition II
 
 
 <div align="center">
-<h1> The Population Explosion of Mankind: </h1> 
- <h1> To What Extent Has Man Influenced the World?</h1> 
+<h1> The Population Explosion of Mankind: To What Extent Has Man Influenced the World?</h1> 
 
 ### Matthew R. Topham
 
@@ -36,8 +35,8 @@ Citizens of planet earth, mankind has grown to a point where collectively we hav
 Some may say that the solar output of the sun has changed and that is the cause of the changing climate. This is incorrect as the solar output of the sun has remained relatively constant varying only slightly in total solar irradiance over the last 400 years. Solar activity has remained relatively stable since we first began observations in the 1600’s. The chart below provided by NOAA represents solar activity and difference from average global temperature, with solar activity remaining stable and average global temperature variance increasing to up to 1.5 degrees in 2010, showing a break from the previous correlation of average global temperature and solar output, leading to another variable affecting the equation, the possibility that it may be caused by the rise of the industrial man and his influence on the world.
 
 
-
-![Solar Activity and Global Temperature](climate%20change%20incoming%20sunlight.jpg)
+<div align="center">
+![Solar Activity and Global Temperature](climate%20change%20incoming%20sunlight.jpg) </div>
 
 It is important to acknowledge that humanity has influenced the planet and that collectively, our decisions and actions make a difference in creating and shaping our world for us and our children to thrive, and for our species to continue. We must leave the world better than we received it, and make improvements, so that our children can continue our work and make the world a place where humanity can flourish as we were meant to. 
 
@@ -62,20 +61,20 @@ Since the rise of the industrial revolution, the global population has increased
 Society as we know it came to existence during a relatively stable time in the geological climate over a period of about 250 years during an ice age. We are currently living in an ice age as we technically have ice on the north and south pole of the planet. The planet has historically been warmer and colder, primarily warmer over the last 500 million years. Society’s evolution with its industrial revolution and corporate entities evolved only during the last 250 years, a tiny spec on the geological radar. Yet since the industrial revolution we have made changes to the composition of the atmosphere that naturally take thousands of years of to occur. The ocean, plants, and atmosphere cycles are having trouble adapting to an increase of 7 billion humans in two centuries living out of sync with the natural cycle of the planet.
 
 
-
-![Historical Temperature Trends](temperatures.jpg)
+<div align="center">
+![Historical Temperature Trends](temperatures.jpg)</div>
 
 Our way of life is made possible by fossil fuels and industry. Global transportation, food production, and many global industries are heavily dependent on fossil fuels. How can we provide for a growing population with a society built upon a limited resource with an estimated 41 years of oil reserves remaining?  
 
 “At the dawn of agriculture, about 8000 B.C., the population of the world was approximately 5 million. Over the 8,000-year period up to 1 A.D. it grew to 200 million (some estimate 300 million or even 600, suggesting how imprecise population estimates of early historical periods can be), with a growth rate of under 0.05% per year. A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years (1930), the third billion in 30 years (1960), the fourth billion in 15 years (1974), and the fifth billion in only 13 years (1987). During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now. Because of declining , it will now take over 200 years to double again.”
 
 
+<div align="center">
+![World Population: Past, Present, and Future](population.jpg)</div>
 
-![World Population: Past, Present, and Future](population.jpg)
 
-
-
-![Energy Usage and Remaining Resources](energy%20remaining.jpg)
+<div align="center">
+![Energy Usage and Remaining Resources](energy%20remaining.jpg)</div>
 
 Measuring our current energy usage by the Kardashev scale we aren’t even a type 1 civilization yet; we are in fact type 0 as we do not utilize all the energy received from our local star. Our civilization is still a work in progress, and we have a lot of room to improve…
 
