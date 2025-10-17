@@ -2,7 +2,7 @@
 # ☀️❄️ Dual-Season Dome Project
 ### *"Where the world outside doesn't decide how you feel inside."*
 
-![Dual Season Dome Concept Art by Gemini Nano Banana](dual_season_dome_concept.jpg)
+![Dual Season Dome Concept Art by Gemini Nano Banana](dual_season_dome_concept.png)
 
 **Quick Links:** [Overview](#concept-overview) · [Experience](#experience-storyboard) · [Engineering](#architecture--engineering) · [Market](#market-model) · [Vision](#vision-for-the-future)
 
