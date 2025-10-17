@@ -1,16 +1,16 @@
 
 ![preservation Dome Concept Art by Gemini Nano Banana](1760706999248.jpg)
-# 🌿 Preservationist Domes
+# 🌿 Preservation Domes
 ### *"Guardians of Earth’s Living Memory."*
 
 ---
 
 ## 1. Concept Overview
 
-**Preservationist Domes** are self-sustaining micro-ecosystems built to **protect and perpetuate life, culture, and knowledge**.  
+**Preservation Domes** are self-sustaining micro-ecosystems built to **protect and perpetuate life, culture, and knowledge**.  
 Where traditional architecture shelters humans, these domes shelter **entire biomes** — living archives that capture the essence of endangered ecosystems, species, and cultural practices.
 
-> *If Dual-Season Domes are about comfort, Preservationist Domes are about continuity.*
+> *If Dual-Season Domes are about comfort, Preservation Domes are about continuity.*
 
 ---
 
@@ -51,7 +51,7 @@ Where traditional architecture shelters humans, these domes shelter **entire bio
 
 ## 5. Architectural Vision
 
-Each Preservationist Dome acts as a **microcosm of a world worth saving.**  
+Each Preservation Dome acts as a **microcosm of a world worth saving.**  
 Externally, they resemble the Dual-Season Dome — glass or ETFE membranes over modular geodesic structures — but internally, every biome is uniquely tuned to its native rhythms.
 
 Imagine walking from a high-alpine snowfield into a humid Amazon grove, both thriving side by side under separate transparent sanctuaries.
@@ -89,7 +89,7 @@ Each dome is co-managed by ecologists, technologists, and cultural historians �
 
 ## 9. Vision for the Future
 
-The Preservationist Domes are the next chapter after the **Dual-Season Dome Project** — shifting from comfort engineering to **planetary guardianship.**  
+The Preservation Domes are the next chapter after the **Dual-Season Dome Project** — shifting from comfort engineering to **planetary guardianship.**  
 Together, they define a continuum of stewardship: *from living well on Earth to ensuring life beyond it.*
 
 ---
